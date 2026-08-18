@@ -1,0 +1,11 @@
+{
+    "id": "zero-flicker",
+    "name": "Zero-Flicker View Mode",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Allows switching between edit and reading views based on frontmatter settings.",
+    "author": "Your Name",
+    "authorUrl": "https://your-website.com",
+    "fundingUrl": "https://your-funding-page.com",
+    "isDesktopOnly": false
+}
